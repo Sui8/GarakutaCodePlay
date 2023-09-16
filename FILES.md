@@ -11,9 +11,6 @@ Python製プログラム置き場。
 ## /Atcoder/
 Atcoderで提出したコード置き場。  
 
-### /JOI/
-JOI・JOI過去問の自分の回答(を色々置く予定)  
-
 ## /Others/
 その他  
 
