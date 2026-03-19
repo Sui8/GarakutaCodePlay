@@ -1,10 +1,9 @@
-# Garakuta Code Play
+# Garakuta Box
 ## Description
-私の制作したガラクタ置き場。リポジトリ名は某楽曲のオマージュです。  
-動くかどうか分からないレベルのものが置かれていることもあります。  
+私の制作したガラクタ置き場です
 
 ## Usage
-[ファイル一覧](https://github.com/sui8/GarakutaCodePlay/blob/main/FILES.md)をご覧ください。  
+[ファイル一覧](https://github.com/sui8/GarakutaBox/blob/main/FILES.md)をご覧ください。  
 
 ## Disclaimer
 当プログラムを利用した事によるいかなる損害も私は一切の責任を負いません。
